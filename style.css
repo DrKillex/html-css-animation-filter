@@ -177,11 +177,11 @@
     }
     20% {
         top: -10px;
-        left: calc(100% - 30px);        
+        left: calc(100% - 10px);        
     }
     40% {
         top: 100%;
-        left: calc(100% - 30px);        
+        left: calc(100% - 10px);        
     }
     60% {
         top: 100%;
@@ -206,11 +206,11 @@
     }
     20% {
         bottom: -10px;
-        right: calc(100% - 30px);   
+        right: calc(100% - 10px);   
     }
     40% {
         bottom: 100%;
-        right: calc(100% - 30px);
+        right: calc(100% - 10px);
     }
     60% {
         bottom: 100%;
